@@ -1,0 +1,39 @@
+{
+	"build": "test",
+	"version": 0.01,
+	"lastBuild": "2015-10-04T06:37:15.568Z",
+	"package": [
+		{
+			"name": "templatePackage",
+			"version": 0.01,
+			"components": [
+				{
+					"component": "test2.js",
+					"versionToUse": 0.01,
+					"requireTestBeforeBuild": true
+				}
+			]
+		},
+		{
+			"name": "templatePackage2",
+			"version": 0.01,
+			"components": [
+				{
+					"component": "test.js",
+					"versionToUse": 0.01,
+					"requireTestBeforeBuild": true
+				},
+				{
+					"component": "test.js",
+					"versionToUse": 0.01,
+					"requireTestBeforeBuild": true
+				},
+				{
+					"component": "test2.js",
+					"versionToUse": 0.01,
+					"requireTestBeforeBuild": true
+				}
+			]
+		}
+	]
+}

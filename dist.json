@@ -1,0 +1,8 @@
+{
+	"description": "Add deployment id by supplying build and version values, then add package path to deploy",
+	"build": "<app>",
+	"version": 0.0.0,
+	"packagePath": "./packages/<folder>",
+	"deployPath": "./production",
+	"lastDeploy": ""
+}

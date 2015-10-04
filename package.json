@@ -1,0 +1,23 @@
+{
+  "name": "buildmatejs",
+  "version": "1.0.0",
+  "description": "javascript build tools",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "build",
+    "tools"
+  ],
+  "author": {
+    "name": "Patrick Traeger"
+  },
+  "license": "MIT",
+  "readme": "#BuildmateJS\n\nUse JavaScript components and compile them into a single script after running unit tests. \n",
+  "readmeFilename": "readme.md",
+  "_id": "buildmatejs@1.0.0",
+  "_shasum": "073214bdb05db6b8ad6cc372f851f928b800545c",
+  "_from": "buildmatejs@*"
+}
